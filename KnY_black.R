@@ -52,7 +52,7 @@ download.chapters.sep.folders<-function(num){
 
 
 download.chapters.one.folder<-function(num){
-  require(st)
+  require(stringr)
   
   name<-str_c("DS chapter ",num[1],"-",tail(num,1), sep = "")
   dir.create(name)
