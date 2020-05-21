@@ -36,5 +36,5 @@ This function performs the same task as the function above but puts the all the 
 
 # A few notes
 * The Kimetsu no Yaiba manga series has 205 main chapters
-* The functions described above cannot download Chapters 120 and 205. The image files imbeded within these chapters are formatted differently from the rest. 
+* The functions described above cannot download Chapters 120 and 205. The image files embeded within these chapters are formatted differently from the rest. 
 * This function is purely for research purposes only. Do not distribute or sell downloaded Chapters. 
